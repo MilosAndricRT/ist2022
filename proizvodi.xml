@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proizvodi>
+	<Proizvod>
+        <Kategorija>monitor</Kategorija>
+        <Cena valuta="din">15000</Cena>
+        <Tekst_oglasa>Mnogo lep monitor...</Tekst_oglasa>
+        <Oznaka>HDR</Oznaka>
+        <Oznaka>OLED</Oznaka>
+        <Akcija cena="12000" datum="5/12/2022"/>
+    </Proizvod>
+    <Proizvod>
+        <Kategorija>laptop</Kategorija>
+        <Cena valuta="din">100000</Cena>
+        <Tekst_oglasa>Mnogo dobar laptop...</Tekst_oglasa>
+        <Oznaka>360</Oznaka>
+    </Proizvod>
+    <Proizvod>
+        <Kategorija>sto</Kategorija>
+        <Cena valuta="din">20000</Cena>
+        <Tekst_oglasa>Mnogo cvrst sto...</Tekst_oglasa>
+        <Oznaka>Podesiva visina</Oznaka>
+        <Akcija cena="12000" datum="4/1/2023"/>
+        <Akcija cena="10000" datum="16/7/2002"/>
+    </Proizvod>
+</Proizvodi>
